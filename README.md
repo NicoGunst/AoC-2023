@@ -7,3 +7,4 @@ Day 3 : Dictionaries
 Day 4 : Sets intersection
 Day 5 : Range subdivision    
 Day 6 : Easy...
+Day 7 : Class sorting
