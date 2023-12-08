@@ -57,7 +57,6 @@ hands = [Hand(*line.split(),1) for line in puzzle_input]
 hands = sorted(hands)
 for index,hand in enumerate(hands) :
     res2 += hand.bid * (index+1)
-print(hands)
 
 print("part 1 : ",res1)
 print("part 2 : ",res2)
