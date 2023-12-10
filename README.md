@@ -8,3 +8,5 @@ Day 4 : Sets intersection
 Day 5 : Range subdivision    
 Day 6 : Easy...
 Day 7 : Class sorting
+Day 8 : Least common multiple
+Day 9 : Reverse list
